@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "487515582206",
+    "firebase_url": "https://selfattendance-988cb.firebaseio.com",
+    "project_id": "selfattendance-988cb",
+    "storage_bucket": "selfattendance-988cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487515582206:android:cb834277429f343d",
+        "android_client_info": {
+          "package_name": "com.example.nanthiniannalj.selfattendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487515582206-63ikg802k95h16a5udfq8fe9d5eumei4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nanthiniannalj.selfattendance",
+            "certificate_hash": "c4a6c425287312044217b5c8ce8296d1170f996d"
+          }
+        },
+        {
+          "client_id": "487515582206-0cln72ohvuafdfjgdk47p9mjpr4qp2o6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhdkYBjB7exB1cmYPdSKA8cKjBSvNsVi4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487515582206-0cln72ohvuafdfjgdk47p9mjpr4qp2o6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
